@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:7DD3FC&height=200&section=header&text=Harsh+Chauhan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software+Engineer+-+AI+and+Full+Stack+Developer&descAlignY=52&descSize=16" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+ | +Full+Stack+Developer;Building+AI-powered+full-stack+apps;RAG+-+Full-Stack+-+DevOps;Open+to+Work+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+and+Full+Stack+Developer;Building+AI-powered+full-stack+apps;RAG+-+Full-Stack+-+DevOps;Open+to+Work+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
