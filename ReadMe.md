@@ -1,24 +1,134 @@
-# 💫 About Me:
-🔭 Currently Working On: Building useful and practical projects.<br>👯 Looking to Collaborate On: Web development projects.<br>🤝 Seeking Help With: Generating new project ideas.<br>🌱 Currently Learning: More of Web Dev world<br>💬 Ask Me About: Web development and Business executions<br>⚡ Fun Fact: I turn caffeine into code and ideas into reality! 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:7DD3FC&height=200&section=header&text=Harsh%20Chauhan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Engineer&descAlignY=52&descSize=18" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshchauhan0045@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Software+Development+Engineer;Building+AI-powered+full-stack+apps;RAG+%7C+Full-Stack+%7C+DevOps;Open+to+Work+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshChauhan04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshChauhan04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChauhan04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshChauhan04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square&color=7DD3FC)
+![Profile Views](https://komarev.com/ghpvc/?username=HarshChauhan04&color=7dd3fc&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/HarshChauhan04?label=Followers&style=flat-square&color=7dd3fc)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshChauhan04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 Who I Am
+
+```typescript
+const harsh = {
+  title: "Software Development Engineer (SDE)",
+
+  stack: {
+    languages: ["C", "C++", "Java", "Python", "TypeScript", "JavaScript", "HTML5", "CSS3"],
+    frontend:  ["React", "TailwindCSS", "Bootstrap", "React Hook Form", "Context API", "Semantic UI"],
+    backend:   ["Node.js", "Express.js", "Laravel", "Socket.io"],
+    cloud:     ["Vercel", "Firebase", "Netlify", "Supabase"],
+    aiAndDb:   ["OpenCV", "Prisma", "MySQL", "MongoDB"],
+    devTools:  ["Git", "GitHub", "Docker", "Kubernetes", "Figma", "Blender", "Canva", "NPM"],
+  },
+
+  launchedProjects: ["AI Study Assistant", "Inkwell (in progress)"],
+
+  certifications: [],
+
+  status: "Actively building & shipping full-stack and AI-powered projects",
+
+  openTo: ["Full-time SDE roles", "Collaboration on web & AI projects"],
+} as const;
+```
+
+---
+
+### 🚀 Featured Projects
+
+#### 📚 AI Study Assistant
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshChauhan04&repo=ai-study-assistant&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc" alt="AI Study Assistant pin"/>
+</div>
+
+A production-ready, full-stack web app for students. Upload study materials (PDFs), extract and chunk their content into vector embeddings, then chat with your notes via Retrieval-Augmented Generation (RAG) — plus auto-generated quizzes, flashcards, exam-prep calendars, viva simulations, and detected key topics.
+
+| Layer | Technology |
+|---|---|
+| Embeddings | Google Gemini Embeddings (`text-embedding-004`) |
+| Retrieval | Retrieval-Augmented Generation (RAG) — semantic search over vector chunks |
+| Document Processing | PDF upload, text extraction & chunking |
+| Study Aids | Interactive quizzes, revision flashcards, day-by-day exam calendars, viva prep simulations, key-topic detection |
+
+🔗 [Live](https://ai-study-assistant-sepia-two.vercel.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/HarshChauhan04/ai-study-assistant)
+
+<br/>
+
+#### ✍️ Inkwell <sub>(in progress)</sub>
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshChauhan04&repo=inkwell&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc" alt="Inkwell pin"/>
+</div>
+
+A full-stack, feature-rich blogging and interactive discussion platform.
+
+| Layer | Technology |
+|---|---|
+| Framework | Next.js 15 (App Router) |
+| Frontend | React 19 |
+| Styling | Tailwind CSS |
+| ORM | Prisma |
+
+🚧 In progress — work-in-progress updates shared on LinkedIn &nbsp;|&nbsp; 💻 [Code](https://github.com/HarshChauhan04/inkwell)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,html,python,typescript,css,javascript)
+
+**Frontend**
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap)
+
+**Backend / Infra**
+![Backend](https://skillicons.dev/icons?i=express,nodejs,laravel,socketio)
+
+**Cloud**
+![Cloud](https://skillicons.dev/icons?i=vercel,firebase,netlify,supabase)
+
+**AI / Databases**
+![AI/DB](https://skillicons.dev/icons?i=opencv,prisma,mysql,mongodb)
+
+**Dev Tools**
+![Dev Tools](https://skillicons.dev/icons?i=git,github,docker,k8s,figma,blender)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshChauhan04&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChauhan04&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=HarshChauhan04&theme=nord&hide_border=true&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarshChauhan04&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChauhan04&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-harshchauhan0045%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshchauhan0045@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-chauhan-/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:7DD3FC&height=120&section=footer" />
